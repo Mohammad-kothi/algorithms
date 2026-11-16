@@ -22,6 +22,6 @@ collected 4 items
 
 tests/test_dynamic_programming.py ....                                   [100%]
 
-============================== 4 passed in 0.01s ===============================
+============================== 4 passed in 0.02s ===============================
 
 OVERALL: PASS
