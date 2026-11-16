@@ -8,8 +8,8 @@ Input size: n = len(array).
 
 | n | Claimed max passes | Observed max passes | Observed median passes | Observed max reads (bound) | Time per call, ns (not judged) |
 |---|---|---|---|---|---|
-| 1,000 | 10 | 10 (range 10-10) | 10.0 (range 9.0-10.0) | 32 (range 32-32) (40) | 423 (range 384-432) |
-| 10,000 | 14 | 14 (range 14-14) | 13.0 (range 13.0-13.0) | 45 (range 45-46) (56) | 617 (range 606-710) |
-| 100,000 | 17 | 17 (range 17-17) | 16.0 (range 16.0-16.5) | 54 (range 54-54) (68) | 755 (range 733-823) |
+| 1,000 | 10 | 10 (range 10-10) | 10.0 (range 9.0-10.0) | 32 (range 32-32) (40) | 569 (range 524-593) |
+| 10,000 | 14 | 14 (range 14-14) | 13.0 (range 13.0-13.0) | 45 (range 45-46) (56) | 836 (range 784-894) |
+| 100,000 | 17 | 17 (range 17-17) | 16.0 (range 16.0-16.5) | 54 (range 54-54) (68) | 988 (range 976-1035) |
 
 Each tenfold increase in n adds about log2(10) = 3.3 passes, which is the logarithmic growth the claim predicts. Timings cover only the calls (after a warm-up), not start-up, imports, compilation, input building, checking or I/O. They are dominated by per-call overhead, so the operation counts are the evidence.

@@ -73,7 +73,7 @@
           "max_passes": 10,
           "median_passes": 10.0,
           "max_reads": 32,
-          "ns_per_call": 423.12068965517244,
+          "ns_per_call": 524.4137931034483,
           "within_bounds": true,
           "passed": true
         },
@@ -84,7 +84,7 @@
           "max_passes": 10,
           "median_passes": 10.0,
           "max_reads": 32,
-          "ns_per_call": 426.7241379310345,
+          "ns_per_call": 593.3965517241379,
           "within_bounds": true,
           "passed": true
         },
@@ -95,7 +95,7 @@
           "max_passes": 10,
           "median_passes": 9.0,
           "max_reads": 32,
-          "ns_per_call": 383.62068965517244,
+          "ns_per_call": 568.9655172413793,
           "within_bounds": true,
           "passed": true
         },
@@ -106,7 +106,7 @@
           "max_passes": 10,
           "median_passes": 10.0,
           "max_reads": 32,
-          "ns_per_call": 432.4655172413793,
+          "ns_per_call": 573.2758620689655,
           "within_bounds": true,
           "passed": true
         },
@@ -117,7 +117,7 @@
           "max_passes": 10,
           "median_passes": 9.0,
           "max_reads": 32,
-          "ns_per_call": 392.2413793103448,
+          "ns_per_call": 540.2241379310345,
           "within_bounds": true,
           "passed": true
         }
@@ -138,9 +138,9 @@
         "max": 32
       },
       "ns_per_call": {
-        "median": 423.12068965517244,
-        "min": 383.62068965517244,
-        "max": 432.4655172413793
+        "median": 568.9655172413793,
+        "min": 524.4137931034483,
+        "max": 593.3965517241379
       },
       "passed": true
     },
@@ -156,7 +156,7 @@
           "max_passes": 14,
           "median_passes": 13.0,
           "max_reads": 45,
-          "ns_per_call": 606.3275862068965,
+          "ns_per_call": 846.2758620689655,
           "within_bounds": true,
           "passed": true
         },
@@ -167,7 +167,7 @@
           "max_passes": 14,
           "median_passes": 13.0,
           "max_reads": 45,
-          "ns_per_call": 625.7241379310345,
+          "ns_per_call": 894.3965517241379,
           "within_bounds": true,
           "passed": true
         },
@@ -178,7 +178,7 @@
           "max_passes": 14,
           "median_passes": 13.0,
           "max_reads": 45,
-          "ns_per_call": 617.1034482758621,
+          "ns_per_call": 783.7586206896551,
           "within_bounds": true,
           "passed": true
         },
@@ -189,7 +189,7 @@
           "max_passes": 14,
           "median_passes": 13.0,
           "max_reads": 45,
-          "ns_per_call": 609.9137931034483,
+          "ns_per_call": 836.2068965517242,
           "within_bounds": true,
           "passed": true
         },
@@ -200,7 +200,7 @@
           "max_passes": 14,
           "median_passes": 13.0,
           "max_reads": 46,
-          "ns_per_call": 709.7758620689655,
+          "ns_per_call": 795.2586206896551,
           "within_bounds": true,
           "passed": true
         }
@@ -221,9 +221,9 @@
         "max": 46
       },
       "ns_per_call": {
-        "median": 617.1034482758621,
-        "min": 606.3275862068965,
-        "max": 709.7758620689655
+        "median": 836.2068965517242,
+        "min": 783.7586206896551,
+        "max": 894.3965517241379
       },
       "passed": true
     },
@@ -239,7 +239,7 @@
           "max_passes": 17,
           "median_passes": 16.0,
           "max_reads": 54,
-          "ns_per_call": 755.0172413793103,
+          "ns_per_call": 1000.0,
           "within_bounds": true,
           "passed": true
         },
@@ -250,7 +250,7 @@
           "max_passes": 17,
           "median_passes": 16.0,
           "max_reads": 54,
-          "ns_per_call": 765.0862068965517,
+          "ns_per_call": 975.5689655172414,
           "within_bounds": true,
           "passed": true
         },
@@ -261,7 +261,7 @@
           "max_passes": 17,
           "median_passes": 16.0,
           "max_reads": 54,
-          "ns_per_call": 733.4655172413793,
+          "ns_per_call": 987.0689655172414,
           "within_bounds": true,
           "passed": true
         },
@@ -272,7 +272,7 @@
           "max_passes": 17,
           "median_passes": 16.5,
           "max_reads": 54,
-          "ns_per_call": 752.8793103448276,
+          "ns_per_call": 988.5,
           "within_bounds": true,
           "passed": true
         },
@@ -283,7 +283,7 @@
           "max_passes": 17,
           "median_passes": 16.0,
           "max_reads": 54,
-          "ns_per_call": 822.5689655172414,
+          "ns_per_call": 1035.2068965517242,
           "within_bounds": true,
           "passed": true
         }
@@ -304,9 +304,9 @@
         "max": 54
       },
       "ns_per_call": {
-        "median": 755.0172413793103,
-        "min": 733.4655172413793,
-        "max": 822.5689655172414
+        "median": 988.5,
+        "min": 975.5689655172414,
+        "max": 1035.2068965517242
       },
       "passed": true
     }
